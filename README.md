@@ -1,6 +1,6 @@
-# MT4 Markttechnik Indikator für Umkehrstäbe
-Indikator, der markttechnische Umkehrstäbe darstellt.
+# MetaTrader 4 Indicator fÃ¼r Reversal Bars
+Indicator for MT4 displaying Reversal Candlesticks.
 
 ## Screenshot
 
-![MT4 Umkehrstäbe Indikator](https://raw.githubusercontent.com/parusel/mt4-markttechnik-umkehrstaebe/master/umkehrstäbe.png "MT4 Umkehrstäbe Markttechnik Indikator")
+![MT4 Reversal Candesticks Indicator](https://raw.githubusercontent.com/parusel/mt4-markttechnik-umkehrstaebe/master/umkehrstÃ¤be.png "MT4 Reversal Pattern Indicator")
